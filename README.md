@@ -24,7 +24,7 @@ Explorar técnicas de agrupamento e entender como diferentes algoritmos podem id
 
 ## 📈 Conclusões e Perfis Encontrados
 
-Ao analisar a tabela de médias e o heatmap, geralmente encontramos 5 perfis bem distintos neste dataset (a numeração dos clusters pode variar a cada execução, mas os perfis são consistentes):
+Os resultados podem ser visualizados por meio de gráficos que mostram a separação dos clusters. Ao analisar a tabela de médias e o heatmap, geralmente encontramos 5 perfis bem distintos neste dataset (a numeração dos clusters pode variar a cada execução, mas os perfis são consistentes):
 
 1.  **Gastadores (Score alto, Renda alta):** O público alvo 'Premium'. Têm dinheiro e gostam de gastar.
 2.  **Poupadores (Score baixo, Renda alta):** Ganham bem, mas gastam pouco. Potencial a ser trabalhado.
@@ -37,4 +37,4 @@ A equipe de marketing poderia criar uma campanha de luxo para o grupo "Gastadore
 
 
 ## 📎 Observação
-Projeto desenvolvido para fins de estudo em Machine Learning.
+Projeto desenvolvido como parte de estudos em Machine Learning, com foco em aprendizado não supervisionado.
