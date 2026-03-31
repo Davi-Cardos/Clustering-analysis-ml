@@ -18,6 +18,15 @@ Este projeto aplica técnicas de clustering para identificar padrões em um conj
 ## 📈 Objetivo
 Explorar técnicas de agrupamento e entender como diferentes algoritmos podem identificar padrões em dados sem rótulos.
 
+## 📊 Dados
+O dataset contém as seguintes variáveis:
+
+1. **CustomerID:** ID do cliente (será removido pois não agrega valor preditivo).
+2. **Gender:** Gênero do cliente.
+3. **Age:** Idade do cliente.
+4. **Annual Income (k$):** Renda anual em milhares de dólares.
+5. **Spending Score (1-100):** Pontuação atribuída pelo shopping com base no comportamento de gastos (quanto maior, mais gasta).
+
 ## ▶️ Como executar
 1. Abrir o notebook no Google Colab ou Jupyter
 2. Executar todas as células
